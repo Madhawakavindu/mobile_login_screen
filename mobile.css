@@ -1,0 +1,245 @@
+/* iPhone 16 - 1 */
+
+position: relative;
+width: 393px;
+height: 852px;
+
+background: #FFFFFF;
+
+
+/* user icon 1 */
+
+position: absolute;
+width: 150px;
+height: 150px;
+left: 122px;
+top: 199px;
+
+background: url(user icon.png);
+
+
+/* Rectangle 2 */
+
+position: absolute;
+width: 324px;
+height: 47px;
+left: 36px;
+top: 400px;
+
+background: #D9D9D9;
+border-radius: 16px;
+
+
+/* Email */
+
+position: absolute;
+width: 66px;
+height: 24px;
+left: calc(50% - 66px/2 - 118.5px);
+top: 414px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* Rectangle 3 */
+
+position: absolute;
+width: 324px;
+height: 47px;
+left: 36px;
+top: 469px;
+
+background: #D9D9D9;
+border-radius: 17px;
+
+
+/* Password */
+
+position: absolute;
+width: 56px;
+height: 15px;
+left: 45px;
+top: 485px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Frogot Your Password ? */
+
+position: absolute;
+width: 135px;
+height: 15px;
+left: 225px;
+top: 526px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Don’t Have an Account Sing Up */
+
+position: absolute;
+width: 178px;
+height: 15px;
+left: 109px;
+top: 804px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Or */
+
+position: absolute;
+width: 17px;
+height: 15px;
+left: 188px;
+top: 669px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Rectangle 4 */
+
+position: absolute;
+width: 285px;
+height: 37px;
+left: 55px;
+top: 599px;
+
+background: #FE3F3F;
+border-radius: 16px;
+
+
+/* Sign in */
+
+position: absolute;
+width: 39px;
+height: 15px;
+left: 177px;
+top: 610px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #000000;
+
+
+
+/* Line 1 */
+
+position: absolute;
+width: 127px;
+height: 0px;
+left: 50px;
+top: 678px;
+
+border: 1px solid #000000;
+
+
+/* Line 2 */
+
+position: absolute;
+width: 121px;
+height: 0px;
+left: 219px;
+top: 678px;
+
+border: 1px solid #000000;
+transform: rotate(0.47deg);
+
+
+/* Rectangle 5 */
+
+position: absolute;
+width: 393px;
+height: 211px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, #E03A3A 0%, #737373 100%);
+
+
+/* battery-status-icon-free-png 1 */
+
+position: absolute;
+width: 40px;
+height: 40px;
+left: 340px;
+top: 0px;
+
+background: url(battery-status-icon-free-png.png);
+
+
+/* 88014 1 */
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 319px;
+top: 9px;
+
+background: url(88014.png);
+
+
+/* Medium_signal-512 1 */
+
+position: absolute;
+width: 18px;
+height: 18px;
+left: 287px;
+top: 9px;
+
+background: url(Medium_signal-512.png);
+
+
+/* 690436 1 */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 14px;
+top: 5px;
+
+background: url(690436.png);
